@@ -1,0 +1,21 @@
+body {
+  background-color: #F3F1F5;
+}
+thead {
+  background-color: #BFA2DB;
+  font-style: italic;
+  text-align: center;
+}
+tbody {
+  background-color: #F0D9FF;
+  text-align: center;
+}
+
+h1 {
+  font-family: cursive;
+  color: #082032;
+}
+
+p,td,li {
+  color:#2B2B2B;
+}
